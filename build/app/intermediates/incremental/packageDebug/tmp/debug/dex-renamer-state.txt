@@ -1,0 +1,4 @@
+#Mon Sep 20 17:27:04 ICT 2021
+base.0=C\:\\Users\\user\\Desktop\\PRM\\tutor_booking\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

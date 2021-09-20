@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/tutor_booking/MainActivity.java
+ com.example.tutor_booking.MainActivity
+com/example/tutor_booking/BuildConfig.java
+ com.example.tutor_booking.BuildConfig
